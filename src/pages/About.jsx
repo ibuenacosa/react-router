@@ -1,3 +1,4 @@
+// About Screen
 export default function About() {
   return (
       <div class="h-screen flex items-center justify-center flex-col lg:flex-row text-center lg:text-left">

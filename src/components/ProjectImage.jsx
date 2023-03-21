@@ -1,3 +1,5 @@
+// Component for project thumbnails 
+
 export default function ProjectImage(props) {
     let imgSrc = `https://media.contra.com/image/upload/f_auto,c_limit,w_1496,q_auto/${props.img}`
     return (

@@ -1,3 +1,4 @@
+// Contact Screen
 export default function Contact() {
     return (
       <div class="flex justify-center items-center flex-col pb-40 pt-20 h-screen">

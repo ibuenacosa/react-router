@@ -1,3 +1,5 @@
+// Projects Screen with ProjectImage component
+
 import ProjectImage from '../components/ProjectImage'
 
 export default function Projects() {

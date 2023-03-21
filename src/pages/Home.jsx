@@ -1,3 +1,4 @@
+// Home Screen
 export default function Home() {
     return (
       <div class="flex w-full flex-col justify-center items-center p-4 h-screen text-center ">
